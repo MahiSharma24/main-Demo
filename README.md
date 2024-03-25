@@ -12,5 +12,5 @@ How to Use:
 Clone the repository to your local machine.
 Open the project in your preferred IDE or text editor.
 Compile/run the program.
-Use the provided controls to start, stop, reset, and record lap times as needed.\
+Use the provided controls to start, stop, reset, and record lap times as needed.
 
